@@ -1,0 +1,262 @@
+/** {
+	outline: 1px solid black;
+}*/
+#wrapper {
+	width: 1000px;	
+	height: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header {
+	height:	100px;
+}
+
+#firstHalfOfHeader {
+	width: 1000px;
+	height: 50px;
+	vertical-align: top;
+	display: inline-flex;
+	padding-bottom: 10px;
+}
+
+#headerPic {
+	position: absolute;
+	height: 100px;
+	width: 100px;
+	vertical-align: top;
+	position: flex;
+}
+#secondHalfofHeader {
+	width: 1000px;
+	height: 50px;
+	background-color: rgb(36, 96, 140);
+	vertical-align: top;
+	display: flex;
+	padding-bottom: 10px;
+}
+
+#theInternet {
+	margin-left: 110px;
+}
+
+#worldWideWeb {
+	margin-left: 110px;
+	color: white;
+}
+
+#mainBlock {
+	height: 700px;
+	width: 1000px;
+}
+
+#leftBlock {
+	position: left;
+	height: 900px;
+	width: 250px;
+	margin-top: 30px;
+	padding: 20px;
+	display: inline-block;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: arial;
+}
+
+#red {
+	color: red;
+}
+
+.blue {
+	color: blue;
+}
+
+#gray {
+	color: gray;
+}
+
+#blueButton {
+	background-color: blue;
+	border-radius: 5px;
+	color: white;
+	padding: 10px 41px 10px 41px;
+	margin-left: 20px;
+	
+}
+
+#orangeButton {
+	background-color: orange;
+	border-radius: 5px;
+	color: white;
+	padding: 10px 30px 10px 30px;
+	margin-left: 20px;
+}
+
+#ad {
+	background-image: url("ad_background.png");
+	height: 470px;
+	width: 250px;
+	position: absolute;
+}
+
+#adText {
+	color: white;
+	padding: 5px;
+	font-family: arial;
+	text-align: center;
+	margin: 10px;
+	font-size: 24px;
+
+}
+
+#ninjaPic {
+	height: 250px;
+	width: 250px;
+	padding-top: 10px;
+}
+
+#adButton {
+	background-color: blue;
+	border-radius: 5px;
+	color: white;
+	padding: 10px 30px 10px 30px;
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
+	margin-top: 30px;
+	margin-left: 40px;
+}
+
+#topRightBlock {
+	margin-top: 50px;
+	vertical-align: top;
+	display: inline-block;
+	height: 130px;
+	width: 700px;
+	border-bottom-color: gray;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	padding: 2px
+}
+
+#dns {
+	display: inline-block;
+	vertical-align: top;
+}
+
+#house {
+	height: 50px;
+	width: 50px;
+}
+
+#rightRightBlock {
+	display: inline-block;
+	margin-left: 290px;
+	vertical-align: top;
+
+}
+#phone {
+	height: 100px;
+	width: 100px;
+}
+
+#phoneNumber {
+	margin: 0px;
+	display: inline-block;
+	color: teal;
+	font-size: 24px;
+	font-family: arial;
+}
+
+#phoneNumberText {
+	display: inline-block;
+	width: 200px;
+}
+
+.phoneTextBesidesNumber {
+	font-family: arial;
+}
+
+#secondRightBlock {
+	margin-left: 0px;
+	vertical-align: top;
+	display: inline-block;
+	height: 130px;
+	width: 700px;
+}
+#rightBlockText1{
+	vertical-align: top;
+	display: inline-block;
+}
+
+.textTitle {
+	color: blue;
+	font-family: arial;
+	font-size: 28px;
+	font-weight: bold;
+}
+
+.blueListText {
+	color: blue;
+	font-family: arial;
+}
+
+ul li {
+	font-family: arial
+}
+
+#rightBlockPicture1 {
+	width: 700px;
+	height: 200px;
+	position: relative;
+	left: 75px;
+}
+
+#firstPic {
+	height: 200px;
+	width: 600px;
+}
+
+ol li {
+	font-family: arial;
+}
+
+#bottomRightBlock {
+
+	vertical-align: top;
+	display: inline-block;
+	height: 200px;
+	width: 700px;
+	border-left-style: solid;
+	border-left-color: blue;
+	border-left-width: 3px;
+	border-top-style: solid;
+	border-top-color: blue;
+	border-top-width: 3px;
+	border-right-style: solid;
+	border-right-color: blue;
+	border-right-width: 3px;
+}
+
+#bottomPic {
+	width: 250px;
+	height: 250px;
+	display: inline-block;
+	margin: 15px;
+}
+
+#threeCircles {
+	height: 185px;
+	width: 235px;
+}
+
+#bottomBlockText {
+	display: inline-block;
+	width: 400px;
+	height: 200px;
+	vertical-align: top;
+}
+
+#bottomBlockText p {
+	font-family: arial;
+	font-size: 20px;
+}
